@@ -1,7 +1,7 @@
 function countVowel(str) {
   let count = 0;
 
-  let vowel = "";
+  let vowels = "";
   for (let i = 0; i < str.length; i++) {
     let char = str[i];
     if (
@@ -12,12 +12,12 @@ function countVowel(str) {
       char == "u"
     ) {
       count++;
-      vowel += str[i];
+      vowels += str[i];
     }
   }
 
   console.log(count);
-  console.log("vowels are -> ", vowel);
+  console.log("vowels are -> ", vowels);
 }
 
 countVowel("javascript");
