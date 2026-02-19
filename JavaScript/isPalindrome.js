@@ -12,4 +12,4 @@ function isPalindrome(num) {
     console.log("Not Palindrome");
   }
 }
-isPalindrome(12321);
+isPalindrome(12421);
