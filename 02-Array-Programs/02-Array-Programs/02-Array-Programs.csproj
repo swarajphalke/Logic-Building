@@ -6,7 +6,7 @@
     <RootNamespace>_02_Array_Programs</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>_02_Array_Programs.TwoSum</StartupObject>
+    <StartupObject>_02_Array_Programs.BinarySearch</StartupObject>
   </PropertyGroup>
 
 </Project>
